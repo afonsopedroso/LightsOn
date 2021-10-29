@@ -1,7 +1,7 @@
 import React, { Component, useState } from 'react'
 
-import lightoff from "../assets/lightOff.png"
-import lighton from "../assets/lightOn.png"
+import lightoff from "../assets/lightOff_248X486.png"
+import lighton from "../assets/lightOn_248X486.png"
 import "./light.scss"
 
 function Lights() {
